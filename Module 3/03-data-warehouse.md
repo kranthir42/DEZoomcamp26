@@ -147,8 +147,10 @@ No Points: Write a `SELECT count(*)` query FROM the materialized table you creat
 
 answer: 
 
-```SELECT COUNT(*)
-FROM zoomcamp.yellow_tripdata_parque```
+```
+SELECT COUNT(*)
+FROM zoomcamp.yellow_tripdata_parque
+```
 
 ## Submitting the solutions
 
